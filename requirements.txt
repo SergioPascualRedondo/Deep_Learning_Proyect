@@ -1,0 +1,7 @@
+gdown>=5.2,<6
+jupyterlab>=4,<5
+keras>=3,<4
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+tensorflow>=2.16,<3
+

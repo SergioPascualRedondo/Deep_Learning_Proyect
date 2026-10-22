@@ -1,0 +1,24 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded data, weights and generated outputs
+data/
+datasets/
+outputs/
+results/
+*.h5
+*.keras
+*.weights.h5
+*.npy
+*.npz
+
